@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Cantarell&display=swap');
+
+body{
+    color: white;
+    background-color: #2B4562;
+    font-family: Cantarell;
+}
+h1 {
+    
+    background-color: hsl(212, 39%, 28%);
+    text-align: center;
+    font-style: italic;
+    font-style: bold;
+}
+.top{
+    background-image: url('/images/mercedes_amg_gt3_5k-HD.jpg');
+}
+img.resize {
+    max-width:50%;
+    max-height:50%;
+  }
+section
+{
+    text-align: center;
+}
+a{
+    color: #FFF01F
+}
